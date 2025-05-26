@@ -1,5 +1,5 @@
 # Medaka-embryo-desication-tolerance
-### Code used for the analyses in <i>Yao et al. (2024), The Science of Nature</i>, "Passive dispersal potential of medaka eggs by attaching to waterbirds."
+### Code used for the analyses in Yao <i>et al</i>. (2024), <i>The Science of Nature</i>, "Passive dispersal potential of medaka eggs by attaching to waterbirds."
 
 This code was used to analyze and visualize data from the egg dehydration experiments (Figure 2 in the original article). 
 
