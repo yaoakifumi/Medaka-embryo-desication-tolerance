@@ -1,6 +1,7 @@
 # Medaka embryo desication tolerance
-This analytic code is to analyze resutlts of egg dehydration experiment.
-Raw data is deposited in Zenodo repository ().
+This analytic code was used to analyze and visualize data from egg dehydration experiment.
+
+Raw data (two csv file) is deposited in Zenodo repository: https://zenodo.org/records/10784845
 
 ## Initial setting
 
