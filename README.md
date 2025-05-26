@@ -3,7 +3,7 @@
 
 This code was used to analyze and visualize data from the egg dehydration experiments (Figure 2 in the original article). 
 
-The raw data analyzed in this code has been deposited in the Zenodo repository..  https://zenodo.org/records/10784845
+The raw data analyzed in this code has been deposited in the Zenodo repository.  https://zenodo.org/records/10784845
 
 
 
